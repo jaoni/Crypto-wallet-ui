@@ -1,8 +1,10 @@
 # crypto_app_ui
 
-A new Flutter project.
+i made this beautiful crypto currency app built with flutter
 
-## Getting Started
+you can test the all through this link "https://appetize.io/app/dln3uzik7hzon6zeos66o4z5ym"
+
+pub get and flutter run to clone this app
 
 This project is a starting point for a Flutter application.
 
